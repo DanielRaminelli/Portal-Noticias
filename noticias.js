@@ -21,9 +21,6 @@ async function getNoticias(){
         </div> `;
 
         listaNoticias.innerHTML += card;
-        
-
-
     }
 }
 getNoticias();
